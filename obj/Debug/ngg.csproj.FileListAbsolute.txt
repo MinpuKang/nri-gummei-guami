@@ -1,0 +1,10 @@
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\ngg\bin\Debug\ngg.exe.config
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\ngg\bin\Debug\ngg.exe
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\ngg\bin\Debug\ngg.pdb
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\ngg\obj\Debug\ngg.NGG.resources
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\ngg\obj\Debug\ngg.Properties.Resources.resources
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\ngg\obj\Debug\ngg.csproj.GenerateResource.cache
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\ngg\obj\Debug\ngg.exe
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\ngg\obj\Debug\ngg.pdb
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\ngg\obj\Debug\ngg.about.resources
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\ngg\obj\Debug\ngg.help.resources
