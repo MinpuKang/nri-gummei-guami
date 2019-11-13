@@ -8,3 +8,4 @@ C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\ngg\obj
 C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\ngg\obj\Release\ngg.exe
 C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\ngg\obj\Release\ngg.pdb
 C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\ngg\obj\Release\ngg.help.resources
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\ngg\obj\Release\ngg.csprojAssemblyReference.cache

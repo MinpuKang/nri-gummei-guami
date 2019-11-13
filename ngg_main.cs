@@ -874,7 +874,7 @@ namespace ngg
             Form f = Application.OpenForms["help"];  //查找是否打开过Form1窗体  
             if ((f == null) || (f.IsDisposed)) //没打开过  
             {
-                about fa = new about();
+                help fa = new help();
                 fa.Show();   //重新new一个Show出来
             }
             else
